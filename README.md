@@ -11,7 +11,7 @@ type:
 
 
  For Run
-## npm start (basically it is a nodemon server.js file that is being started)
+## npm start (basically it is a nodemon app.js file that is being started)
 
 
 ## cd ..
