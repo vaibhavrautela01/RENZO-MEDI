@@ -49,18 +49,20 @@ This project shows the E-book system created in 1 hour assignment
 
 
 2. Install dependencies:
+   npm install tailwindcss @tailwindcss/vite
    npm install express cors
+   npm i express
+   npm install express cors body-parser
+
+
   
 
 ## Configuration
-Ensure the `example2.json` file is properly structured. 
+Ensure the file is properly structured. 
 
 
 
-## Example Request
-```bash
-curl -H "Authorization: admin" http://localhost:8080/users
-```
+
 
 
 
