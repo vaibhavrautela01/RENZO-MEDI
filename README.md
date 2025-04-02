@@ -10,8 +10,8 @@ type:
 
 
 
-## For Run
-npm start (basically it is a nodemon server.js file that is being started)
+ For Run
+## npm start (basically it is a nodemon server.js file that is being started)
 
 
 ## cd ..
